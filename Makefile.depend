@@ -1,0 +1,3 @@
+detab.o: detab.c
+	${CC} -c ${CFLAGS} detab.c
+
